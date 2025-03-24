@@ -1,4 +1,4 @@
-import SkipSelectionPage from "./Components/EX18";
+import SkipSelectionPage from "./Components/SkipSelectionPage";
 
 function App() {
   return (
